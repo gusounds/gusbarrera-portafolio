@@ -1,0 +1,28 @@
+/*
+ * ImageHover.css - Demo Page
+ * Author: Ciarán Walsh
+
+ * Made available under a MIT License:
+ * http://www.opensource.org/licenses/mit-license.php
+
+ */
+.demo {
+  display: inline-block;
+  width: 100%;
+  padding: 0;
+  -webkit-box-sizing: padding-box;
+  box-sizing: padding-box;
+}
+.demo textarea {
+  -webkit-box-sizing: padding-box;
+  box-sizing: padding-box;
+  font-family: "Roboto";
+  font-size: 0.9em;
+  height: 32px;
+  padding: 6px 0px;
+  resize: none;
+  text-align: center;
+  width: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
